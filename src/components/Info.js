@@ -15,7 +15,7 @@ export default function Info() {
             <FontAwesomeIcon icon={faEnvelope} size="lg"></FontAwesomeIcon>&nbsp;
             Email
           </a>
-        </button>&nbsp;&nbsp;&nbsp;&nbsp;
+        </button>
         <button className="info--button">
           <a className="info--link" href="https://www.linkedin.com/in/naomiyocum/" target="_blank" rel="noreferrer">
             <FontAwesomeIcon icon={faLinkedin} size="lg"></FontAwesomeIcon>&nbsp;

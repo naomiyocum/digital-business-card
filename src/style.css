@@ -41,6 +41,12 @@ body {
   font-weight: 400;
 }
 
+.info-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1vw;
+}
+
 .info--button {
   font-size: 1.1vw;
   padding: 0.75vw 2vw;
