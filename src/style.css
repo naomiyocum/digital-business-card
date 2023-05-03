@@ -33,10 +33,12 @@ body {
 
 .info--fullname {
   font-size: 1.8vw;
+  font-weight: 500;
 }
 
 .info--title {
   font-size: 1.2vw;
+  font-weight: 400;
 }
 
 .info--button {
