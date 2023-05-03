@@ -58,7 +58,7 @@ body {
 }
 
 .about--description {
-  font-size: 1vw;
+  font-size: 0.95vw;
 }
 
 .about--title {
@@ -67,7 +67,7 @@ body {
 
 .about--techstack {
   text-align: center;
-  font-size: 0.75vw;
+  font-size: 0.9vw;
   color: lightblue;
 }
 
