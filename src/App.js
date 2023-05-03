@@ -3,7 +3,7 @@ import About from './components/About'
 
 export default function App() {
   return (
-    <div className="App">
+    <div className="app">
       <div>
         <Info />
         <About />

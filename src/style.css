@@ -1,5 +1,4 @@
 * {
-  background-color: lightblue;
   font-family: 'Raleway', sans-serif;
 }
 
@@ -7,8 +6,15 @@ body {
   margin-left: auto;
   margin-right: auto;
   max-width: 25%;
-  border-radius: 25px;
-  border: 2px solid darkblue;
+  border-radius: 5px;
+  border: 4px solid black;
+  background-color: lightblue;
+  
+  color: white;
+}
+
+.app {
+  background-color: black; 
 }
 
 /* INFO */
@@ -16,6 +22,21 @@ body {
 .info {
   text-align: center;
   line-height: 1em;
+}
+
+.info--img {
+  width: 25vw;
+  height: 26vw;
+  object-fit: cover;
+  object-position: 30% 10%;
+}
+
+.info--name {
+  font-size: 2vw;
+}
+
+.info--title {
+  font-size: 1.5vw;
 }
 
 .info--button {
@@ -33,12 +54,11 @@ body {
 /* ABOUT */
 
 .about {
-  margin: 5px;
-  margin-bottom: 10px;
+  margin: 2.5vw 1.5vw;
 }
 
 .about--description {
-  font-size: 0.9vw;
+  font-size: 1vw;
 }
 
 .about--title {
@@ -48,4 +68,5 @@ body {
 .about--techstack {
   text-align: center;
   font-size: 0.75vw;
+  color: lightblue;
 }
