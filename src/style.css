@@ -19,6 +19,7 @@ body {
 }
 
 .info--button {
+  font-size: 1.1vw;
   padding: 5px 15px;
   border: 2px solid black;
   border-radius: 10px;
@@ -27,4 +28,24 @@ body {
 .info--link {
   text-decoration: none;
   color: black;
+}
+
+/* ABOUT */
+
+.about {
+  margin: 5px;
+  margin-bottom: 10px;
+}
+
+.about--description {
+  font-size: 0.9vw;
+}
+
+.about--title {
+  font-size: 1.5vw;
+}
+
+.about--techstack {
+  text-align: center;
+  font-size: 0.75vw;
 }

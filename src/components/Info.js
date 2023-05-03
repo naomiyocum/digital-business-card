@@ -6,8 +6,7 @@ import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 export default function Info() {
   return (
     <div className="info">
-      <img className="info--img" src="../images/headshot.png" alt="Naomi's Headshot"></img>
-      <img className="info--img" src="./images/headshot.png" alt="Naomi's Headshot"></img>
+      <img className="info--img" src={require("../images/headshot.png")} alt="Naomi's Headshot" />
       <h1 className="info--fullname">Naomi Yocum</h1>
       <h3 className="info--title">Software Developer</h3>
       <div className="info-buttons">
