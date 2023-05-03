@@ -4,7 +4,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/naomiyocum/digital-business-card?color=yellow)
 
 <div align="center">
-  <img width="353" alt="screenshot" src="https://user-images.githubusercontent.com/102825498/236035801-cbbbf50a-c156-4efe-a19d-af1e60c49e2d.png">
+  <img width="390" alt="Screen Shot 2023-05-03 at 3 07 20 PM" src="https://user-images.githubusercontent.com/102825498/236050148-90e724c2-cb22-4927-b965-bb008281199e.png">
 </div>
 
 ## Table of contents
