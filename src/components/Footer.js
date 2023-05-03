@@ -1,1 +1,1 @@
-// Github and LinkedIn and Twitter buttons
+// Github and Instagram and Twitter buttons
